@@ -1,5 +1,8 @@
 # DealabsMonitor .LysC0 [WIN/MACOS/LINUX]
+
 monitoring dealabs website
+
+![info](img/info.png)
 
 ## install [required lib]
 
