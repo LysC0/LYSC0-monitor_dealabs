@@ -1,7 +1,6 @@
 # Dealabs Monitor .LysC0 [WIN/MACOS/LINUX]
 
-monitoring dealabs website [WIN/MACOS/LINUX]
-only requests/bs4
+monitoring dealabs website 
 
 ![info](img/info.png)
 ![info](img/webhook.png)
