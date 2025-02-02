@@ -20,7 +20,7 @@ monitoring dealabs website
 
 ## how to run the monitor ? ##
 
-into the directory (LYSC0-DealabsMonitor) run this command :
+into the directory (LYSC0-dealabs_monitor) run this command :
 - python3 monitor_dealabs.py
 
 ## dm bug fix / add feature ##
