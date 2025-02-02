@@ -22,3 +22,6 @@ monitoring dealabs website
 
 into the directory (LYSC0-DealabsMonitor) run this command :
 - python3 monitor_dealabs.py
+
+## dm bug fix / add feature ##
+discord : .saill
