@@ -1,0 +1,19 @@
+{
+    "dealabs_url" : "https://www.dealabs.com/nouveaux",
+
+    "settings" : {
+        "webhook" : "https://discord.com/api/webhooks/1154193477819695175/lXjz_mO_oxiNDgXqBYh3Rr69LRpgUuTLBLBhnjKYUAaGMbRIjpLu8IdbdSVBm1n7Cc5f",
+        "range" : 999999,
+        "await_time" : 2
+    },
+
+    "keywords" : [
+        "pc",
+        "drone",
+        "ecran",
+        "apple",
+        "tissot",
+        "casque",
+        "well"
+    ]
+}
