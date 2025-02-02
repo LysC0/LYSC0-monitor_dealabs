@@ -1,6 +1,6 @@
-# DealabsMonitor .LysC0 [WIN/MACOS/LINUX]
+# Dealabs Monitor .LysC0 [WIN/MACOS/LINUX]
 
-monitoring dealabs website
+monitoring dealabs website 
 
 ![info](img/info.png)
 ![info](img/webhook.png)
