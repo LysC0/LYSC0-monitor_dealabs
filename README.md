@@ -1,6 +1,6 @@
 # Dealabs Monitor .LysC0 [WIN/MACOS/LINUX]
 
-FREE monitoring dealabs website 
+monitoring dealabs website 
 
 ![info](img/info.png)
 ![info](img/webhook.png)
@@ -24,4 +24,4 @@ into the directory (LYSC0-dealabs_monitor) run this command :
 - python3 monitor_dealabs.py
 
 ## dm bug fix / add feature ##
-discord : .saill
+discord  .saill
