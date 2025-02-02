@@ -16,7 +16,7 @@ monitoring dealabs website
 - webhook : url discord webhook
 - range : monitoring range number (put a high number, ex : 999999) or more 
 - await_time : loop await time (ex : 2)
-- keywords : specific keyword (check setup.json for exemple)
+- keywords : specific keyword(s) (check setup.json for exemple)
 
 ## how to run the monitor ? ##
 
