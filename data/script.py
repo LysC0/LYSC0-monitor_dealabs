@@ -206,6 +206,4 @@ class MAINdealabs:
 |-------------------------------""")
 
 if __name__ == '__main__' :
-    #bot = MAINdealabs('https://www.dealabs.com/', 19000, 2, '', 'https://discord.com/api/webhooks/1154193477819695175/lXjz_mO_oxiNDgXqBYh3Rr69LRpgUuTLBLBhnjKYUAaGMbRIjpLu8IdbdSVBm1n7Cc5f')
-    #bot.monitor()
     pass
