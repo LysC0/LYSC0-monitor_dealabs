@@ -5,7 +5,7 @@ monitoring dealabs website
 ![info](img/info1.png)
 ![info](img/webhook1.png)
 
-## install [required lib]
+## STEP 1 | install [required lib]
 
 - pip install -r requirements.txt
 
@@ -17,7 +17,7 @@ monitoring dealabs website
 - await_time : loop await time (ex : 2)
 - keywords : specific keyword(s) (check setup.json for exemple)
 
-## how to run the monitor ? ##
+## STEP 2 | how to run the monitor ? ##
 
 into the directory (LYSC0-dealabs_monitor) run this command :
 - python3 monitor_dealabs.py
