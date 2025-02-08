@@ -1,4 +1,4 @@
-# Dealabs Monitor .LysC0 [WIN/MACOS/LINUX]
+# Dealabs Monitor [WIN/MACOS/LINUX]
 
 monitoring dealabs website 
 
