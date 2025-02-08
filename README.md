@@ -7,8 +7,7 @@ monitoring dealabs website
 
 ## install [required lib]
 
-- pip install requests
-- pip install bs4
+- pip install -r requirements.txt
 
 ## setup .json file
 
