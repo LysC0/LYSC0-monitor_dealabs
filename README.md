@@ -6,7 +6,7 @@
 - Undetectable
 - Can be host
 
-### Quick look
+### Preview :
 
 ![info](img/info.png)
 ![info](img/webhook.png)
