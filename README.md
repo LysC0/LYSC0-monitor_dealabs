@@ -11,7 +11,7 @@
 ![info](img/info.png)
 ![info](img/webhook.png)
 
-## Instruction : 
+## Quick Instruction : 
 
 ## [STEP 1] - install [required lib]
 
