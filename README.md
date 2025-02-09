@@ -1,6 +1,11 @@
 # Dealabs Monitor [WIN/MACOS/LINUX]
 
-monitoring dealabs website 
+Monitoring Dealabs Website
+
+Feature :
+- Keyword
+- Undetectable
+- Can be host
 
 ![info](img/info.png)
 ![info](img/webhook.png)
