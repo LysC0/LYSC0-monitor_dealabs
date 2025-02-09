@@ -15,7 +15,7 @@ monitoring dealabs website
 - webhook : url discord webhook
 - range : monitoring range number (put a high number, ex : 999999) or more 
 - await_time : loop await time (ex : 2)
-- platform : enter [only 1 platform] -> Win | MacOS | Linux
+- platform : choose [only 1 platform] -> Win | MacOS | Linux
 - keywords : specific keyword(s) (check setup.json for exemple)
 
 ## [STEP 3] - how to run the monitor ? ##
