@@ -2,6 +2,7 @@
     "dealabs_url" : "https://www.dealabs.com/nouveaux",
 
     "settings" : {
+        "platform" : "win",
         "webhook" : "enter ur webhook url here",
         "range" : 999999,
         "await_time" : 2
