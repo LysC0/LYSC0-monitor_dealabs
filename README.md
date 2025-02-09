@@ -2,8 +2,8 @@
 
 monitoring dealabs website 
 
-![info](img/info1.png)
-![info](img/webhook1.png)
+![info](img/info.png)
+![info](img/webhook.png)
 
 ## [STEP 1] - install [required lib]
 
