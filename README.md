@@ -13,11 +13,11 @@
 
 ## Instruction : 
 
-### [STEP 1] - install [required lib]
+## [STEP 1] - install [required lib]
 
 - pip install -r requirements.txt
 
-### [STEP 2] - setup .json file
+## [STEP 2] - setup .json file
 
 - dealabs_url : monitoring link (only dealabs link ex : https://www.dealabs.com/top or https://www.dealabs.com/nouveaux..)
 - webhook : url discord webhook
@@ -26,7 +26,7 @@
 - platform : choose [only 1 platform] -> Win | MacOS | Linux
 - keywords : specific keyword(s) (check setup.json for exemple)
 
-### [STEP 3] - how to run the monitor ? ##
+## [STEP 3] - how to run the monitor ? ##
 
 into the directory (dealabs_monitor_v0.4) run this command :
 - python3 monitor_dealabs.py
