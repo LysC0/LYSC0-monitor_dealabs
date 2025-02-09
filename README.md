@@ -1,6 +1,6 @@
 # Dealabs Monitor [WIN/MACOS/LINUX]
 
-### -> Monitoring Dealabs Website [Fr] <-
+## Monitoring Dealabs Website [Fr] 
 ### Feature :
 - Keyword
 - Undetectable
