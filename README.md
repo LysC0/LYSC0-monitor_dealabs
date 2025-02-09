@@ -1,6 +1,6 @@
 # Dealabs Monitor [WIN/MACOS/LINUX]
 
-## Monitoring Dealabs Website | Open Source | LysC0 |
+## Monitoring Dealabs Website 
 ### Feature :
 - Keyword
 - Undetectable
